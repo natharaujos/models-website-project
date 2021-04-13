@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+body {
+    background: #D9D8C7 url('../images/fundo.png');
+    font: 16px Arial;
+}
+
+#principal {
+    width: 900px;
+}
+
+#menu {
+    background: #595837;
+    padding: 15px;
+}
+
+#conteudo {
+    background: #D9D8C7;
+    padding: 18px;
+}
+
+#fotos {
+    border: 5px solid #A6A598;
+}
+
+a {
+    color: #D9D8C7;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px;
+}
+
+.centralizar {
+    text-align: center;
+}
